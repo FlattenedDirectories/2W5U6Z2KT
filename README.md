@@ -6,7 +6,7 @@
 2. Log file will sit aside with `*.py`
 3. Lines like `185.209.0.12 - - [19/May/2019:13:51:11 +0800] "\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 157 "-" "-" "-"` is not considered as valid, which will not be counted
 4. Timezone is HKT (GMT +8)
-5. Any host count is having same count with the last candidate with still be shown, so there may be more candidate shown compared to given condition.
+5. Any host count is having same count with the last candidate will still be shown, so there may be more candidate shown compared to given condition.
 
 ## Usage
 ```sh
